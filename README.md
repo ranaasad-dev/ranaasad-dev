@@ -1,17 +1,22 @@
 
-<!-- PROFILE README: ranaasad-dev -->
-
 <div align="center">
 
 # 👋 Hi, I'm Rana Asad Arshad
 
-### 💻 Computer Science Student | Aspiring Software Developer
+### 💻 BS Computer Science Student | Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BS+Computer+Science+Student;Aspiring+Software+Developer;Exploring+Artificial+Intelligence;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Developer;Exploring+Artificial+Intelligence;Learning+Python+%26+Building+Projects" alt="Typing Animation" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ranaasad-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p>
   <a href="https://github.com/ranaasad-dev">
-    <img src="https://komarev.com/ghpvc/?username=ranaasad-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-ranaasad--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://ranaasad-dev.github.io/rana_Asad_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -21,15 +26,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student at Superior University**, passionate about programming, software development, and exploring emerging technologies.
+Hello! I'm **Rana Asad Arshad**, a Computer Science student at Superior University with a passion for programming, software development, and emerging technologies.
 
-I enjoy turning ideas into practical applications, solving programming problems, and continuously improving my technical skills.
+I enjoy building practical applications, solving programming problems, and continuously improving my technical skills.
 
-- 🎓 Pursuing BS Computer Science at Superior University
-- 💻 Interested in Software Development and Artificial Intelligence
-- 🐍 Learning Python and improving my programming fundamentals
-- 🤖 Exploring AI, Data Science, and intelligent applications
-- 🚀 Building practical projects to strengthen my development skills
+- 🎓 BS Computer Science Student at Superior University
+- 💻 Aspiring Software Developer
+- 🤖 Interested in Artificial Intelligence and Data Science
+- 🐍 Currently learning Python and improving programming fundamentals
+- 🚀 Building practical projects to strengthen my development experience
 - 🌱 Focused on continuous learning and professional growth
 
 ---
@@ -60,7 +65,7 @@ I enjoy turning ideas into practical applications, solving programming problems,
 
 ### 💊 AI Pharmacy Stock Management System
 
-An intelligent pharmacy inventory management solution designed to monitor medicine stock, track expiry dates, and support inventory management.
+An intelligent pharmacy inventory management system designed to monitor medicine stock, track expiry dates, and assist in inventory management.
 
 **Key Features:**
 - Medicine inventory management
@@ -72,11 +77,11 @@ An intelligent pharmacy inventory management solution designed to monitor medici
 
 A software project focused on organizing and managing family-related information through a user-friendly application.
 
-### 🌐 Personal Developer Portfolio
+### 🌐 Developer Portfolio
 
 My personal portfolio website showcasing my projects, skills, and development journey.
 
-🔗 **Live Portfolio:** [Visit My Portfolio](https://ranaasad-dev.github.io/rana_Asad_Portfolio/)
+🔗 [Visit My Portfolio](https://ranaasad-dev.github.io/rana_Asad_Portfolio/)
 
 ### 📱 Android Signup Application
 
@@ -90,9 +95,9 @@ An Android application developed to explore mobile application development, user
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranaasad-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ranaasad-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaasad-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaasad-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
