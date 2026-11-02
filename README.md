@@ -1,128 +1,61 @@
+<h1 align="center">Hi, I'm Rana Asad 👋</h1>
 
-<!-- ===================== HEADER ===================== -->
-
-<div align="center">
-
-# 👋 Hi, I'm Rana Asad Arshad
-
-### 💻 Computer Science Student | Aspiring Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=BS+Computer+Science+Student;Passionate+About+Technology;Exploring+AI+%26+Data+Science;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ranaasad-dev&label=Profile%20Views&color=00C9A7&style=flat" alt="Profile Views" />
+<p align="center">
+  <a href="https://github.com/ranaasad-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Learning+by+Building+Projects" alt="Typing introduction" />
+  </a>
 </p>
 
-</div>
-
----
-
-<!-- ===================== ABOUT ME ===================== -->
+<p align="center">
+  <a href="https://github.com/ranaasad-dev">
+    <img src="https://komarev.com/ghpvc/?username=ranaasad-dev&label=Profile%20views&color=2F80ED&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Computer Science student at **Superior University**
-- 💡 Interested in Artificial Intelligence, Data Science, and Software Development
-- 🌱 Currently improving my programming and problem-solving skills
-- 🛠️ Working on academic and personal development projects
-- 🎯 Goal: Become a skilled Computer Scientist and Software Developer
-- 🤝 Open to learning, collaboration, and new opportunities
+- 🎓 Computer Science student
+- 🌱 Learning software development and DevOps
+- 🛠️ Building projects to practice and improve my skills
+- 📫 Find me on GitHub: [@ranaasad-dev](https://github.com/ranaasad-dev)
 
----
+## 🧰 Tools and Technologies
 
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,mysql,git,github,vscode&perline=6" alt="Tech Stack" />
-
-</div>
-
----
-
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- Replace these with technologies you actually use -->
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ranaasad-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaasad-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTION STREAK ===================== -->
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ranaasad-dev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics for ranaasad-dev" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ranaasad-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+</p>
 
 ## 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-vercel.vercel.app/?user=ranaasad-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=ranaasad-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+## 📌 Featured Projects
 
-</div>
+<!-- Add your best repositories here. Replace REPOSITORY_NAME and descriptions. -->
+- [Project name](https://github.com/ranaasad-dev/REPOSITORY_NAME) — Short description of what the project does.
 
----
+## 🤝 Connect
 
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 💊 AI Pharmacy Stock Management System | AI-based pharmacy inventory management system for tracking medicine stock and expiry dates. |
-| 🔐 FamilyVault | A project focused on secure storage and management of important information. |
-| 🌐 Developer Portfolio | My personal portfolio website showcasing my skills and development work. |
-| 📱 Android Signup Application | An Android application developed using Java and Android Studio. |
-
-> 📌 Explore my GitHub repositories to see more of my work and projects.
+<p>
+  <a href="https://github.com/ranaasad-dev">
+    <img src="https://img.shields.io/badge/GitHub-ranaasad--dev-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+</p>
 
 ---
 
-<!-- ===================== CURRENT GOALS ===================== -->
-
-## 🎯 Current Goals
-
-- [ ] Strengthen my Python programming skills
-- [ ] Learn Artificial Intelligence and Machine Learning
-- [ ] Build practical and professional software projects
-- [ ] Improve Data Structures and Algorithms
-- [ ] Contribute to open-source projects
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://ranaasad-dev.github.io/rana_Asad_Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="mailto:ranaasad.cs17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/ranaasad-dev">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-### 💫 Keep Learning. Keep Building. Keep Growing.
-
-**Thanks for visiting my profile!** ⭐
-
-</div>
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
